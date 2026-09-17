@@ -1,54 +1,55 @@
-👩‍💻 Olá, eu sou Josiani Oliveira!
+# 👩‍💻 Olá, eu sou Josiani Oliveira!
 
 Bem-vindo(a) ao meu perfil no GitHub! 😊
 
-Sou uma desenvolvedora em formação, interessada em tecnologia, desenvolvimento de software e criação de soluções.
+Sou **desenvolvedora júnior em formação**, estudante de Análise e Desenvolvimento de Sistemas e interessada em desenvolvimento de software, programação e criação de soluções.
 
-Utilizo este espaço para compartilhar meus projetos, estudos e minha evolução na área de tecnologia.
+Utilizo este espaço para compartilhar meus projetos, estudos e minha evolução profissional na área de tecnologia.
 
-🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias e conhecimentos
 
-🐍 Python
+* 🐍 Python
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
+* 🗄️ SQL e SQLite
+* 🔗 APIs REST
+* 🧪 Testes automatizados
+* 💻 Desenvolvimento web
+* 🔧 Git e GitHub
 
-🌐 HTML5
+## 📌 Principais projetos
 
-🎨 CSS3
+### 💼 Portfólio Josiani
 
-⚡ JavaScript
+Projeto desenvolvido para apresentar meus conhecimentos, habilidades, projetos e experiências na área de tecnologia.
 
-🗄️ SQLite
+**Tecnologias:** HTML, CSS, JavaScript e Python.
 
-🧪 Testes automatizados
+### 👥 Sistema de Cadastro de Clientes
 
-💻 Desenvolvimento web
+Sistema desenvolvido em Python para cadastro e gerenciamento de clientes, utilizando banco de dados SQLite, operações CRUD, validações e testes automatizados.
 
-📌 Meus projetos
-💼 Portfólio Josiani
+**Tecnologias:** Python, SQLite, SQL e unittest.
 
-Portfólio profissional desenvolvido para apresentar meus conhecimentos, habilidades e projetos.
+### 🧩 Desafio Quick Filler
 
-Tecnologias: HTML, CSS, JavaScript e Python.
+Projeto desenvolvido com Python e FastAPI como parte da minha prática em programação e desenvolvimento de aplicações.
 
-👥 Sistema de Cadastro de Clientes
+**Tecnologias:** Python e FastAPI.
 
-Sistema desenvolvido em Python para cadastro e gerenciamento de clientes, utilizando SQLite e testes automatizados.
+## 🎯 Objetivo
 
-Tecnologias: Python, SQLite e testes automatizados.
+Continuar desenvolvendo minhas habilidades em programação, ampliar meus conhecimentos em desenvolvimento de sistemas e criar projetos cada vez mais completos e estruturados.
 
-🧩 Desafio Quick Filler
+Busco oportunidades para aplicar meus conhecimentos, aprender continuamente e contribuir com equipes de tecnologia.
 
-Projeto desenvolvido em Python como parte da minha prática e evolução em programação.
+## 🔗 Onde me encontrar
 
-Tecnologia: Python.
+💼 **LinkedIn:** [Josiani Oliveira](https://www.linkedin.com/in/josiani-oliveira-9b0550203/)
 
-🎯 Objetivo
+🐙 **GitHub:** [@Josiani1111](https://github.com/Josiani1111)
 
-Continuar desenvolvendo minhas habilidades em programação, criar projetos cada vez mais completos e conquistar novas oportunidades na área de tecnologia.
-
-🔗 Onde me encontrar
-
-💼 LinkedIn
-
-🐙 GitHub
+---
 
 ✨ Obrigada por visitar meu perfil!
