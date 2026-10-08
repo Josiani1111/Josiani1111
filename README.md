@@ -1,57 +1,135 @@
 # 👩‍💻 Olá, eu sou Josiani Oliveira!
 
-Bem-vindo(a) ao meu perfil no GitHub! 😊
+**Desenvolvedora Júnior | Python | FastAPI | SQL | APIs REST | Git/GitHub**
 
-Sou **estudante do último ano de Análise e Desenvolvimento de Sistemas**, com experiência profissional em TI e em transição de carreira para a área de desenvolvimento de software.
+🎓 Estudante do último ano de **Análise e Desenvolvimento de Sistemas**, em transição de carreira para a área de Tecnologia.
 
-Utilizo este espaço para compartilhar meus projetos, estudos e minha evolução profissional em Tecnologia.
+Tenho experiência profissional, perfil analítico e foco em organização, resolução de problemas e melhoria de processos. Atualmente, venho direcionando essa experiência para o desenvolvimento de software, construindo projetos práticos com **Python, APIs, bancos de dados e automação**.
+
+Este GitHub reúne meus projetos, estudos e minha evolução como desenvolvedora.
+
+---
 
 ## 🛠️ Tecnologias e conhecimentos
 
-* 🐍 Python
-* 🌐 HTML5
-* 🎨 CSS3
-* ⚡ JavaScript
-* 🗄️ SQL e SQLite
-* 🔗 APIs REST
-* 🧪 Testes automatizados
-* 💻 Desenvolvimento web
-* 🔧 Git e GitHub
-* 🗃️ Bancos de dados
+**Backend e desenvolvimento**
+- 🐍 Python
+- ⚡ FastAPI
+- 🔗 APIs REST
+- 🗄️ SQL e SQLite
+- 🧪 Testes automatizados
 
-## 📌 Principais projetos
+**Web**
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
 
-### 💼 Portfólio Josiani
+**Ferramentas**
+- 🔧 Git
+- 🐙 GitHub
+- 💻 VS Code
 
-Portfólio profissional desenvolvido para apresentar meus conhecimentos, projetos e experiências na área de Tecnologia.
+**Outros conhecimentos**
+- Automação de processos
+- CRUD
+- Bancos de dados
+- Validação de dados
+- Documentação de APIs com Swagger/OpenAPI
 
-**Tecnologias:** HTML, CSS, JavaScript e Python.
+---
 
-### 👥 Sistema de Cadastro de Clientes
+## 🚀 Projetos em destaque
 
-Aplicação desenvolvida em Python para cadastro e gerenciamento de clientes, utilizando SQLite, operações CRUD, validações e testes automatizados.
+### 📦 Controle de Estoque API
 
-**Tecnologias:** Python, SQLite, SQL e unittest.
+API REST desenvolvida com **Python e FastAPI** para gerenciamento de produtos.
 
-### 🧩 Desafio Quick Filler
+**Principais recursos:**
+- Cadastro de produtos
+- Consulta por ID
+- Listagem de produtos
+- Atualização
+- Exclusão
+- Validação de dados
+- Tratamento de erros HTTP
+- Banco de dados SQLite
+- Documentação Swagger/OpenAPI
 
-Aplicação desenvolvida com Python e FastAPI para processamento de documentos PDF, utilizando extração de texto, parsers, OCR e organização dos dados processados.
+**Tecnologias:** Python, FastAPI, SQLite, Pydantic, Uvicorn.
 
-**Tecnologias:** Python, FastAPI, pypdf, PyMuPDF, PyTesseract, OpenPyXL e SQLite.
+👉 [Ver projeto](https://github.com/Josiani1111/controle-estoque-api)
+
+---
+
+### 📊 Automação de Relatórios
+
+Projeto desenvolvido em Python para automatizar a leitura, análise e geração de relatórios a partir de planilhas.
+
+**Tecnologias:** Python, Pandas e OpenPyXL.
+
+👉 [Ver projeto](https://github.com/Josiani1111/automacao-relatorios)
+
+---
 
 ### 🎫 HelpDesk TI
 
-Sistema web para gerenciamento de chamados de suporte técnico, permitindo cadastrar chamados, definir prioridades, acompanhar status, filtrar registros e realizar operações CRUD.
+Aplicação web desenvolvida para gerenciamento de chamados de suporte técnico.
+
+**Principais recursos:**
+- Cadastro de chamados
+- Controle de prioridade
+- Controle de status
+- Operações CRUD
+- Banco de dados SQLite
+- API com FastAPI
 
 **Tecnologias:** Python, FastAPI, SQLite, HTML, CSS e JavaScript.
 
+👉 [Ver projeto](https://github.com/Josiani1111/helpdesk-ti)
+
+---
+
+### 📄 Desafio Quick Filler
+
+Aplicação desenvolvida com Python e FastAPI para processamento e extração de informações de documentos PDF.
+
+**Tecnologias:** Python, FastAPI, PDF, OCR, PyMuPDF, PyTesseract e OpenPyXL.
+
+👉 [Ver projeto](https://github.com/Josiani1111/desafio-quick-filler)
+
+---
+
+### 👥 Sistema de Cadastro de Clientes
+
+Aplicação em Python para gerenciamento de clientes utilizando operações CRUD, SQLite, validações e testes automatizados.
+
+**Tecnologias:** Python, SQLite, SQL e unittest.
+
+👉 [Ver projeto](https://github.com/Josiani1111/novo_desafio)
+
+---
+
+## 📚 Atualmente desenvolvendo
+
+- Desenvolvimento de APIs REST
+- Python e FastAPI
+- Banco de dados e SQL
+- Automação de processos
+- Testes automatizados
+- Boas práticas de desenvolvimento
+- Git e GitHub
+
+---
+
 ## 🎯 Objetivo profissional
 
-Continuar desenvolvendo minhas habilidades em programação e desenvolvimento de sistemas, aplicando conhecimentos em projetos práticos e ampliando minha experiência na área de Tecnologia.
+Busco uma oportunidade como **Desenvolvedora Júnior**, especialmente em posições relacionadas a **Python, desenvolvimento de APIs, backend, automação ou desenvolvimento de sistemas**.
 
-Busco oportunidades na área de **Tecnologia da Informação**, especialmente em desenvolvimento de software, suporte de TI e áreas relacionadas, onde possa contribuir com minha experiência profissional, organização, capacidade de resolução de problemas e conhecimentos técnicos.
+Quero aplicar meus conhecimentos técnicos em projetos reais, continuar evoluindo profissionalmente e contribuir com minha experiência, organização, capacidade analítica e resolução de problemas.
 
-## 🔗 Onde me encontrar
+---
+
+## 🔗 Vamos nos conectar?
 
 💼 **LinkedIn:** [Josiani Oliveira](https://www.linkedin.com/in/josiani-oliveira-9b0550203/)
 
@@ -59,6 +137,4 @@ Busco oportunidades na área de **Tecnologia da Informação**, especialmente em
 
 ---
 
-✨ Obrigada por visitar meu perfil!
-
-**Josiani Oliveira**
+⭐ Obrigada por visitar meu perfil!
